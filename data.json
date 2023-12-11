@@ -1,0 +1,2598 @@
+[
+  {
+    "years": [
+      {
+        "yID": 2020,
+        "areas": [
+          {
+            "aID": "EMEA",
+            "countries": [
+              {
+                "cID": "AD",
+                "cName": "Andorra",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "AE",
+                "cName": "United Arab Emirates",
+                "totalCount": 5,
+                "totalAmount": 926.62
+              },
+              {
+                "cID": "AL",
+                "cName": "Albania",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "AO",
+                "cName": "Angola",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "AX",
+                "cName": "Åland Islands",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "AZ",
+                "cName": "Azerbaijan",
+                "totalCount": 1,
+                "totalAmount": 508.26
+              },
+              {
+                "cID": "BA",
+                "cName": "Bosnia and Herzegovina",
+                "totalCount": 7,
+                "totalAmount": 729.7
+              },
+              {
+                "cID": "BE",
+                "cName": "Belgium",
+                "totalCount": 148,
+                "totalAmount": 19001.6752136752
+              },
+              {
+                "cID": "BG",
+                "cName": "Bulgaria",
+                "totalCount": 9,
+                "totalAmount": 2022.58974358974
+              },
+              {
+                "cID": "BL",
+                "cName": "Saint Barthélemy",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "BY",
+                "cName": "Belarus",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "CH",
+                "cName": "Switzerland",
+                "totalCount": 24,
+                "totalAmount": 7649.97
+              },
+              {
+                "cID": "CY",
+                "cName": "Cyprus",
+                "totalCount": 5,
+                "totalAmount": 831.145299145299
+              },
+              {
+                "cID": "CZ",
+                "cName": "Czechia",
+                "totalCount": 10,
+                "totalAmount": 1746.11965811966
+              },
+              {
+                "cID": "DK",
+                "cName": "Denmark",
+                "totalCount": 21,
+                "totalAmount": 3897.93162393162
+              },
+              {
+                "cID": "DZ",
+                "cName": "Algeria",
+                "totalCount": 1,
+                "totalAmount": 102.97
+              },
+              {
+                "cID": "EE",
+                "cName": "Estonia",
+                "totalCount": 9,
+                "totalAmount": 1515.39316239316
+              },
+              {
+                "cID": "EG",
+                "cName": "Egypt",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "FI",
+                "cName": "Finland",
+                "totalCount": 33,
+                "totalAmount": 3476.83760683761
+              },
+              {
+                "cID": "FR",
+                "cName": "France",
+                "totalCount": 630,
+                "totalAmount": 63442.4833333333
+              },
+              {
+                "cID": "GE",
+                "cName": "Georgia",
+                "totalCount": 1,
+                "totalAmount": 446.92
+              },
+              {
+                "cID": "GF",
+                "cName": "French Guiana",
+                "totalCount": 4,
+                "totalAmount": 258.72
+              },
+              {
+                "cID": "GG",
+                "cName": "Guernsey",
+                "totalCount": 3,
+                "totalAmount": 313.23
+              },
+              {
+                "cID": "GI",
+                "cName": "Gibralta",
+                "totalCount": 2,
+                "totalAmount": 749.3
+              },
+              {
+                "cID": "GP",
+                "cName": "Guadeloupe",
+                "totalCount": 10,
+                "totalAmount": 1012.46
+              },
+              {
+                "cID": "GR",
+                "cName": "Greece",
+                "totalCount": 42,
+                "totalAmount": 5687.94871794872
+              },
+              {
+                "cID": "HR",
+                "cName": "Croatia",
+                "totalCount": 30,
+                "totalAmount": 4718.09401709402
+              },
+              {
+                "cID": "HU",
+                "cName": "Hungary",
+                "totalCount": 22,
+                "totalAmount": 3898.57264957265
+              },
+              {
+                "cID": "IE",
+                "cName": "Ireland",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "IL",
+                "cName": "Israel",
+                "totalCount": 16,
+                "totalAmount": 2294.81
+              },
+              {
+                "cID": "IQ",
+                "cName": "Iraq",
+                "totalCount": 2,
+                "totalAmount": 329.55
+              },
+              {
+                "cID": "IS",
+                "cName": "Iceland",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "JE",
+                "cName": "Jersey",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "JO",
+                "cName": "Jordan",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "KW",
+                "cName": "Kuwait",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "KZ",
+                "cName": "Kazakhstan",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "LB",
+                "cName": "Lebanon",
+                "totalCount": 2,
+                "totalAmount": 468.86
+              },
+              {
+                "cID": "LT",
+                "cName": "Lithuania",
+                "totalCount": 9,
+                "totalAmount": 3898.57264957265
+              },
+              {
+                "cID": "LU",
+                "cName": "Luxembourg",
+                "totalCount": 6,
+                "totalAmount": 736.239316239316
+              },
+              {
+                "cID": "LV",
+                "cName": "Latvia",
+                "totalCount": 6,
+                "totalAmount": 958.615384615385
+              },
+              {
+                "cID": "MA",
+                "cName": "Morocco",
+                "totalCount": 7,
+                "totalAmount": 1627.39
+              },
+              {
+                "cID": "MC",
+                "cName": "Monaco",
+                "totalCount": 1,
+                "totalAmount": 633.66
+              },
+              {
+                "cID": "MD",
+                "cName": "Moldova, Republic of",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "ME",
+                "cName": "Montenegro",
+                "totalCount": 1,
+                "totalAmount": 166.27
+              },
+              {
+                "cID": "MF",
+                "cName": "Collectivity of Saint Martin",
+                "totalCount": 1,
+                "totalAmount": 997.3
+              },
+              {
+                "cID": "MG",
+                "cName": "Madagascar",
+                "totalCount": 1,
+                "totalAmount": 266.85
+              },
+              {
+                "cID": "MK",
+                "cName": "Macedonia, the former Yugoslav Republic of",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "MQ",
+                "cName": "Martinique",
+                "totalCount": 9,
+                "totalAmount": 2023.1
+              },
+              {
+                "cID": "MT",
+                "cName": "Malta",
+                "totalCount": 6,
+                "totalAmount": 540.974358974359
+              },
+              {
+                "cID": "MU",
+                "cName": "Mauritius",
+                "totalCount": 1,
+                "totalAmount": 36.04
+              },
+              {
+                "cID": "MZ",
+                "cName": "Mozambique",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "NC",
+                "cName": "New Caledonia",
+                "totalCount": 1,
+                "totalAmount": 300.37
+              },
+              {
+                "cID": "NL",
+                "cName": "Netherlands",
+                "totalCount": 112,
+                "totalAmount": 15484.38462
+              },
+              {
+                "cID": "NO",
+                "cName": "Norway",
+                "totalCount": 21,
+                "totalAmount": 4060.51
+              },
+              {
+                "cID": "PF",
+                "cName": "French Polynesia",
+                "totalCount": 51,
+                "totalAmount": 10603.79
+              },
+              {
+                "cID": "PL",
+                "cName": "Poland",
+                "totalCount": 7,
+                "totalAmount": 1467.03418803419
+              },
+              {
+                "cID": "PT",
+                "cName": "Portugal",
+                "totalCount": 25,
+                "totalAmount": 2535.73504273504
+              },
+              {
+                "cID": "QA",
+                "cName": "Qatar",
+                "totalCount": 3,
+                "totalAmount": 818.26
+              },
+              {
+                "cID": "RE",
+                "cName": "Réunion",
+                "totalCount": 11,
+                "totalAmount": 2123.5
+              },
+              {
+                "cID": "RO",
+                "cName": "Romania",
+                "totalCount": 9,
+                "totalAmount": 2756.13675213675
+              },
+              {
+                "cID": "RS",
+                "cName": "Serbia",
+                "totalCount": 5,
+                "totalAmount": 493
+              },
+              {
+                "cID": "RU",
+                "cName": "Russian Federation",
+                "totalCount": 23,
+                "totalAmount": 4183.3
+              },
+              {
+                "cID": "SA",
+                "cName": "Saudi Arabia",
+                "totalCount": 1,
+                "totalAmount": 220.72
+              },
+              {
+                "cID": "SE",
+                "cName": "Sweden",
+                "totalCount": 35,
+                "totalAmount": 5001.86324786325
+              },
+              {
+                "cID": "SI",
+                "cName": "Slovenia",
+                "totalCount": 19,
+                "totalAmount": 3964.27350427351
+              },
+              {
+                "cID": "SK",
+                "cName": "Slovakia",
+                "totalCount": 6,
+                "totalAmount": 1994.5811965812
+              },
+              {
+                "cID": "SZ",
+                "cName": "Swaziland",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "TF",
+                "cName": "French Southern Territories",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "TR",
+                "cName": "Turkey",
+                "totalCount": 9,
+                "totalAmount": 2876.08
+              },
+              {
+                "cID": "UA",
+                "cName": "Ukraine",
+                "totalCount": 5,
+                "totalAmount": 706.71
+              },
+              {
+                "cID": "UG",
+                "cName": "Uganda",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "YT",
+                "cName": "Mayotte",
+                "totalCount": 3,
+                "totalAmount": 590.92
+              },
+              {
+                "cID": "ZA",
+                "cName": "South Africa",
+                "totalCount": 6,
+                "totalAmount": 1119.46
+              }
+            ]
+          },
+          {
+            "aID": "LATAM",
+            "countries": [
+              {
+                "cID": "AR",
+                "cName": "Argentina",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "AW",
+                "cName": "Aruba",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "BM",
+                "cName": "Bermuda",
+                "totalCount": 7,
+                "totalAmount": 956.17
+              },
+              {
+                "cID": "BR",
+                "cName": "Brazil",
+                "totalCount": 2,
+                "totalAmount": 234.18
+              },
+              {
+                "cID": "CL",
+                "cName": "Cile",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "CO",
+                "cName": "Colombia",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "CR",
+                "cName": "Costa Rica",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "DM",
+                "cName": "Dominica",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "EC",
+                "cName": "Ecuador",
+                "totalCount": 3,
+                "totalAmount": 660.39
+              },
+              {
+                "cID": "LC",
+                "cName": "Saint Lucia",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "MX",
+                "cName": "Mexico",
+                "totalCount": 11,
+                "totalAmount": 2240.89
+              },
+              {
+                "cID": "PA",
+                "cName": "Panama",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "PR",
+                "cName": "Puerto Rico",
+                "totalCount": 2,
+                "totalAmount": 1028.56
+              },
+              {
+                "cID": "UY",
+                "cName": "Uruguay",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "VG",
+                "cName": "Virgin Islands, British",
+                "totalCount": 0,
+                "totalAmount": 0
+              }
+            ]
+          },
+          {
+            "aID": "APAC",
+            "countries": [
+              {
+                "cID": "BN",
+                "cName": "Brunei Darussalam",
+                "totalCount": 2,
+                "totalAmount": 466.37
+              },
+              {
+                "cID": "HK",
+                "cName": "Hong Kong",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "ID",
+                "cName": "Indonesia",
+                "totalCount": 3,
+                "totalAmount": 2071.48
+              },
+              {
+                "cID": "IN",
+                "cName": "India",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "JP",
+                "cName": "Japan",
+                "totalCount": 72,
+                "totalAmount": 27532.4
+              },
+              {
+                "cID": "KH",
+                "cName": "Cambodia",
+                "totalCount": 1,
+                "totalAmount": 31.89
+              },
+              {
+                "cID": "KR",
+                "cName": "Korea, Republic of",
+                "totalCount": 51,
+                "totalAmount": 27031.74
+              },
+              {
+                "cID": "MY",
+                "cName": "Malaysia",
+                "totalCount": 9,
+                "totalAmount": 1868.49
+              },
+              {
+                "cID": "PH",
+                "cName": "Philippines",
+                "totalCount": 10,
+                "totalAmount": 1743.32
+              },
+              {
+                "cID": "SG",
+                "cName": "Singapore",
+                "totalCount": 21,
+                "totalAmount": 4114.26
+              },
+              {
+                "cID": "TH",
+                "cName": "Thailand",
+                "totalCount": 18,
+                "totalAmount": 4194.22
+              },
+              {
+                "cID": "VN",
+                "cName": "Vietnam",
+                "totalCount": 3,
+                "totalAmount": 242.3
+              }
+            ]
+          },
+          {
+            "aID": "NA",
+            "countries": [
+              {
+                "cID": "CA",
+                "cName": "Canada",
+                "totalCount": 9,
+                "totalAmount": 959.59
+              },
+              {
+                "cID": "US",
+                "cName": "United States of America",
+                "totalCount": 58,
+                "totalAmount": 11851.37
+              }
+            ]
+          },
+          {
+            "aID": "Others",
+            "countries": [
+              {
+                "cID": "XK",
+                "cName": "Kosovo",
+                "totalCount": 0,
+                "totalAmount": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "yID": 2021,
+        "areas": [
+          {
+            "aID": "EMEA",
+            "countries": [
+              {
+                "cID": "AD",
+                "cName": "Andorra",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "AE",
+                "cName": "United Arab Emirates",
+                "totalCount": 4,
+                "totalAmount": 799.3
+              },
+              {
+                "cID": "AL",
+                "cName": "Albania",
+                "totalCount": 7,
+                "totalAmount": 903.84
+              },
+              {
+                "cID": "AO",
+                "cName": "Angola",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "AX",
+                "cName": "Åland Islands",
+                "totalCount": 1,
+                "totalAmount": 367.52
+              },
+              {
+                "cID": "AZ",
+                "cName": "Azerbaijan",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "BA",
+                "cName": "Bosnia and Herzegovina",
+                "totalCount": 4,
+                "totalAmount": 667.67
+              },
+              {
+                "cID": "BE",
+                "cName": "Belgium",
+                "totalCount": 127,
+                "totalAmount": 16526.07
+              },
+              {
+                "cID": "BG",
+                "cName": "Bulgaria",
+                "totalCount": 10,
+                "totalAmount": 1393.38
+              },
+              {
+                "cID": "BL",
+                "cName": "Saint Barthélemy",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "BY",
+                "cName": "Belarus",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "CH",
+                "cName": "Switzerland",
+                "totalCount": 52,
+                "totalAmount": 10905.26
+              },
+              {
+                "cID": "CY",
+                "cName": "Cyprus",
+                "totalCount": 6,
+                "totalAmount": 629.470085470085
+              },
+              {
+                "cID": "CZ",
+                "cName": "Czechia",
+                "totalCount": 17,
+                "totalAmount": 2257.62393162393
+              },
+              {
+                "cID": "DK",
+                "cName": "Denmark",
+                "totalCount": 26,
+                "totalAmount": 2860.03418803419
+              },
+              {
+                "cID": "DZ",
+                "cName": "Algeria",
+                "totalCount": 2,
+                "totalAmount": 360.5
+              },
+              {
+                "cID": "EE",
+                "cName": "Estonia",
+                "totalCount": 12,
+                "totalAmount": 1613.84615384615
+              },
+              {
+                "cID": "EG",
+                "cName": "Egypt",
+                "totalCount": 1,
+                "totalAmount": 128.93
+              },
+              {
+                "cID": "FI",
+                "cName": "Finland",
+                "totalCount": 30,
+                "totalAmount": 4345.50427350427
+              },
+              {
+                "cID": "FR",
+                "cName": "France",
+                "totalCount": 648,
+                "totalAmount": 66773.6083333334
+              },
+              {
+                "cID": "GE",
+                "cName": "Georgia",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "GF",
+                "cName": "French Guiana",
+                "totalCount": 1,
+                "totalAmount": 65.59
+              },
+              {
+                "cID": "GG",
+                "cName": "Guernsey",
+                "totalCount": 1,
+                "totalAmount": 78.92
+              },
+              {
+                "cID": "GI",
+                "cName": "Gibralta",
+                "totalCount": 1,
+                "totalAmount": 43.43
+              },
+              {
+                "cID": "GP",
+                "cName": "Guadeloupe",
+                "totalCount": 9,
+                "totalAmount": 1544.3
+              },
+              {
+                "cID": "GR",
+                "cName": "Greece",
+                "totalCount": 69,
+                "totalAmount": 13257.5128205128
+              },
+              {
+                "cID": "HR",
+                "cName": "Croatia",
+                "totalCount": 34,
+                "totalAmount": 5204.88034188034
+              },
+              {
+                "cID": "HU",
+                "cName": "Hungary",
+                "totalCount": 24,
+                "totalAmount": 4222.89743589744
+              },
+              {
+                "cID": "IE",
+                "cName": "Ireland",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "IL",
+                "cName": "Israel",
+                "totalCount": 26,
+                "totalAmount": 3827.87
+              },
+              {
+                "cID": "IQ",
+                "cName": "Iraq",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "IS",
+                "cName": "Iceland",
+                "totalCount": 2,
+                "totalAmount": 283.85
+              },
+              {
+                "cID": "JE",
+                "cName": "Jersey",
+                "totalCount": 1,
+                "totalAmount": 37.11
+              },
+              {
+                "cID": "JO",
+                "cName": "Jordan",
+                "totalCount": 1,
+                "totalAmount": 140.35
+              },
+              {
+                "cID": "KW",
+                "cName": "Kuwait",
+                "totalCount": 1,
+                "totalAmount": 251.28
+              },
+              {
+                "cID": "KZ",
+                "cName": "Kazakhstan",
+                "totalCount": 1,
+                "totalAmount": 90.46
+              },
+              {
+                "cID": "LB",
+                "cName": "Lebanon",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "LT",
+                "cName": "Lithuania",
+                "totalCount": 14,
+                "totalAmount": 2200.17948717949
+              },
+              {
+                "cID": "LU",
+                "cName": "Luxembourg",
+                "totalCount": 3,
+                "totalAmount": 199.78
+              },
+              {
+                "cID": "LV",
+                "cName": "Latvia",
+                "totalCount": 24,
+                "totalAmount": 3103.23076923077
+              },
+              {
+                "cID": "MA",
+                "cName": "Morocco",
+                "totalCount": 4,
+                "totalAmount": 693.12
+              },
+              {
+                "cID": "MC",
+                "cName": "Monaco",
+                "totalCount": 2,
+                "totalAmount": 516.67
+              },
+              {
+                "cID": "MD",
+                "cName": "Moldova, Republic of",
+                "totalCount": 1,
+                "totalAmount": 176.48
+              },
+              {
+                "cID": "ME",
+                "cName": "Montenegro",
+                "totalCount": 3,
+                "totalAmount": 315.82
+              },
+              {
+                "cID": "MF",
+                "cName": "Collectivity of Saint Martin",
+                "totalCount": 4,
+                "totalAmount": 1032.8
+              },
+              {
+                "cID": "MG",
+                "cName": "Madagascar",
+                "totalCount": 3,
+                "totalAmount": 468.25
+              },
+              {
+                "cID": "MK",
+                "cName": "Macedonia, the former Yugoslav Republic of",
+                "totalCount": 5,
+                "totalAmount": 724.17
+              },
+              {
+                "cID": "MQ",
+                "cName": "Martinique",
+                "totalCount": 11,
+                "totalAmount": 1613.6
+              },
+              {
+                "cID": "MT",
+                "cName": "Malta",
+                "totalCount": 18,
+                "totalAmount": 2986.89743589744
+              },
+              {
+                "cID": "MU",
+                "cName": "Mauritius",
+                "totalCount": 1,
+                "totalAmount": 93.24
+              },
+              {
+                "cID": "MZ",
+                "cName": "Mozambique",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "NC",
+                "cName": "New Caledonia",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "NL",
+                "cName": "Netherlands",
+                "totalCount": 120,
+                "totalAmount": 12413.0512820513
+              },
+              {
+                "cID": "NO",
+                "cName": "Norway",
+                "totalCount": 21,
+                "totalAmount": 2036.07
+              },
+              {
+                "cID": "PF",
+                "cName": "French Polynesia",
+                "totalCount": 27,
+                "totalAmount": 5090.53
+              },
+              {
+                "cID": "PL",
+                "cName": "Poland",
+                "totalCount": 4,
+                "totalAmount": 347.299145299145
+              },
+              {
+                "cID": "PT",
+                "cName": "Portugal",
+                "totalCount": 33,
+                "totalAmount": 2312.58974358974
+              },
+              {
+                "cID": "QA",
+                "cName": "Qatar",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "RE",
+                "cName": "Réunion",
+                "totalCount": 16,
+                "totalAmount": 288.91
+              },
+              {
+                "cID": "RO",
+                "cName": "Romania",
+                "totalCount": 16,
+                "totalAmount": 2709.28205128205
+              },
+              {
+                "cID": "RS",
+                "cName": "Serbia",
+                "totalCount": 7,
+                "totalAmount": 1069.2
+              },
+              {
+                "cID": "RU",
+                "cName": "Russian Federation",
+                "totalCount": 33,
+                "totalAmount": 6081.3
+              },
+              {
+                "cID": "SA",
+                "cName": "Saudi Arabia",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "SE",
+                "cName": "Sweden",
+                "totalCount": 36,
+                "totalAmount": 5351.00854700855
+              },
+              {
+                "cID": "SI",
+                "cName": "Slovenia",
+                "totalCount": 37,
+                "totalAmount": 4187.73504273504
+              },
+              {
+                "cID": "SK",
+                "cName": "Slovakia",
+                "totalCount": 21,
+                "totalAmount": 3972.60683760684
+              },
+              {
+                "cID": "SZ",
+                "cName": "Swaziland",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "TF",
+                "cName": "French Southern Territories",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "TR",
+                "cName": "Turkey",
+                "totalCount": 38,
+                "totalAmount": 6988.33
+              },
+              {
+                "cID": "UA",
+                "cName": "Ukraine",
+                "totalCount": 2,
+                "totalAmount": 253.9
+              },
+              {
+                "cID": "UG",
+                "cName": "Uganda",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "YT",
+                "cName": "Mayotte",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "ZA",
+                "cName": "South Africa",
+                "totalCount": 7,
+                "totalAmount": 1729.76
+              }
+            ]
+          },
+          {
+            "aID": "LATAM",
+            "countries": [
+              {
+                "cID": "AR",
+                "cName": "Argentina",
+                "totalCount": 2,
+                "totalAmount": 118.52
+              },
+              {
+                "cID": "AW",
+                "cName": "Aruba",
+                "totalCount": 1,
+                "totalAmount": 273.91
+              },
+              {
+                "cID": "BM",
+                "cName": "Bermuda",
+                "totalCount": 5,
+                "totalAmount": 2567.57
+              },
+              {
+                "cID": "BR",
+                "cName": "Brazil",
+                "totalCount": 5,
+                "totalAmount": 543.68
+              },
+              {
+                "cID": "CL",
+                "cName": "Cile",
+                "totalCount": 1,
+                "totalAmount": 644.46
+              },
+              {
+                "cID": "CO",
+                "cName": "Colombia",
+                "totalCount": 5,
+                "totalAmount": 586.33
+              },
+              {
+                "cID": "CR",
+                "cName": "Costa Rica",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "DM",
+                "cName": "Dominica",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "EC",
+                "cName": "Ecuador",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "LC",
+                "cName": "Saint Lucia",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "MX",
+                "cName": "Mexico",
+                "totalCount": 6,
+                "totalAmount": 994
+              },
+              {
+                "cID": "PA",
+                "cName": "Panama",
+                "totalCount": 1,
+                "totalAmount": 110.01
+              },
+              {
+                "cID": "PR",
+                "cName": "Puerto Rico",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "UY",
+                "cName": "Uruguay",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "VG",
+                "cName": "Virgin Islands, British",
+                "totalCount": 0,
+                "totalAmount": 0
+              }
+            ]
+          },
+          {
+            "aID": "APAC",
+            "countries": [
+              {
+                "cID": "BN",
+                "cName": "Brunei Darussalam",
+                "totalCount": 3,
+                "totalAmount": 1090.63
+              },
+              {
+                "cID": "HK",
+                "cName": "Hong Kong",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "ID",
+                "cName": "Indonesia",
+                "totalCount": 4,
+                "totalAmount": 847.46
+              },
+              {
+                "cID": "IN",
+                "cName": "India",
+                "totalCount": 1,
+                "totalAmount": 168.59
+              },
+              {
+                "cID": "JP",
+                "cName": "Japan",
+                "totalCount": 58,
+                "totalAmount": 26916.49
+              },
+              {
+                "cID": "KH",
+                "cName": "Cambodia",
+                "totalCount": 1,
+                "totalAmount": 135.1
+              },
+              {
+                "cID": "KR",
+                "cName": "Korea, Republic of",
+                "totalCount": 23,
+                "totalAmount": 12017.02
+              },
+              {
+                "cID": "MY",
+                "cName": "Malaysia",
+                "totalCount": 17,
+                "totalAmount": 3058.18
+              },
+              {
+                "cID": "PH",
+                "cName": "Philippines",
+                "totalCount": 8,
+                "totalAmount": 1414.18
+              },
+              {
+                "cID": "SG",
+                "cName": "Singapore",
+                "totalCount": 14,
+                "totalAmount": 2030.6
+              },
+              {
+                "cID": "TH",
+                "cName": "Thailand",
+                "totalCount": 14,
+                "totalAmount": 2148.34
+              },
+              {
+                "cID": "VN",
+                "cName": "Vietnam",
+                "totalCount": 5,
+                "totalAmount": 857.04
+              }
+            ]
+          },
+          {
+            "aID": "NA",
+            "countries": [
+              {
+                "cID": "CA",
+                "cName": "Canada",
+                "totalCount": 9,
+                "totalAmount": 1186.61
+              },
+              {
+                "cID": "US",
+                "cName": "United States of America",
+                "totalCount": 71,
+                "totalAmount": 18669.89
+              }
+            ]
+          },
+          {
+            "aID": "Others",
+            "countries": [
+              {
+                "cID": "XK",
+                "cName": "Kosovo",
+                "totalCount": 1,
+                "totalAmount": 64.22
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "yID": 2022,
+        "areas": [
+          {
+            "aID": "EMEA",
+            "countries": [
+              {
+                "cID": "AD",
+                "cName": "Andorra",
+                "totalCount": 2,
+                "totalAmount": 224.88
+              },
+              {
+                "cID": "AE",
+                "cName": "United Arab Emirates",
+                "totalCount": 5,
+                "totalAmount": 1242.35
+              },
+              {
+                "cID": "AL",
+                "cName": "Albania",
+                "totalCount": 2,
+                "totalAmount": 173.38
+              },
+              {
+                "cID": "AO",
+                "cName": "Angola",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "AX",
+                "cName": "Åland Islands",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "AZ",
+                "cName": "Azerbaijan",
+                "totalCount": 1,
+                "totalAmount": 224.9
+              },
+              {
+                "cID": "BA",
+                "cName": "Bosnia and Herzegovina",
+                "totalCount": 4,
+                "totalAmount": 876.81
+              },
+              {
+                "cID": "BE",
+                "cName": "Belgium",
+                "totalCount": 137,
+                "totalAmount": 20656.7948717949
+              },
+              {
+                "cID": "BG",
+                "cName": "Bulgaria",
+                "totalCount": 15,
+                "totalAmount": 1842.21367521368
+              },
+              {
+                "cID": "BL",
+                "cName": "Saint Barthélemy",
+                "totalCount": 1,
+                "totalAmount": 212.36
+              },
+              {
+                "cID": "BY",
+                "cName": "Belarus",
+                "totalCount": 1,
+                "totalAmount": 189.96
+              },
+              {
+                "cID": "CH",
+                "cName": "Switzerland",
+                "totalCount": 98,
+                "totalAmount": 22940.7
+              },
+              {
+                "cID": "CY",
+                "cName": "Cyprus",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "CZ",
+                "cName": "Czechia",
+                "totalCount": 28,
+                "totalAmount": 4591.10256410256
+              },
+              {
+                "cID": "DK",
+                "cName": "Denmark",
+                "totalCount": 20,
+                "totalAmount": 2818.65811965812
+              },
+              {
+                "cID": "DZ",
+                "cName": "Algeria",
+                "totalCount": 1,
+                "totalAmount": 56.22
+              },
+              {
+                "cID": "EE",
+                "cName": "Estonia",
+                "totalCount": 9,
+                "totalAmount": 1279.90598290598
+              },
+              {
+                "cID": "EG",
+                "cName": "Egypt",
+                "totalCount": 1,
+                "totalAmount": 177
+              },
+              {
+                "cID": "FI",
+                "cName": "Finland",
+                "totalCount": 9,
+                "totalAmount": 2403.49572649573
+              },
+              {
+                "cID": "FR",
+                "cName": "France",
+                "totalCount": 683,
+                "totalAmount": 84124.3916666667
+              },
+              {
+                "cID": "GE",
+                "cName": "Georgia",
+                "totalCount": 1,
+                "totalAmount": 256.45
+              },
+              {
+                "cID": "GF",
+                "cName": "French Guiana",
+                "totalCount": 1,
+                "totalAmount": 304.2
+              },
+              {
+                "cID": "GG",
+                "cName": "Guernsey",
+                "totalCount": 1,
+                "totalAmount": 290.77
+              },
+              {
+                "cID": "GI",
+                "cName": "Gibralta",
+                "totalCount": 1,
+                "totalAmount": 25.22
+              },
+              {
+                "cID": "GP",
+                "cName": "Guadeloupe",
+                "totalCount": 7,
+                "totalAmount": 1132
+              },
+              {
+                "cID": "GR",
+                "cName": "Greece",
+                "totalCount": 53,
+                "totalAmount": 8953.52136752137
+              },
+              {
+                "cID": "HR",
+                "cName": "Croatia",
+                "totalCount": 54,
+                "totalAmount": 13142.9487179487
+              },
+              {
+                "cID": "HU",
+                "cName": "Hungary",
+                "totalCount": 45,
+                "totalAmount": 6272.12820512821
+              },
+              {
+                "cID": "IE",
+                "cName": "Ireland",
+                "totalCount": 5,
+                "totalAmount": 855.923076923077
+              },
+              {
+                "cID": "IL",
+                "cName": "Israel",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "IQ",
+                "cName": "Iraq",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "IS",
+                "cName": "Iceland",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "JE",
+                "cName": "Jersey",
+                "totalCount": 3,
+                "totalAmount": 658.68
+              },
+              {
+                "cID": "JO",
+                "cName": "Jordan",
+                "totalCount": 1,
+                "totalAmount": 661.13
+              },
+              {
+                "cID": "KW",
+                "cName": "Kuwait",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "KZ",
+                "cName": "Kazakhstan",
+                "totalCount": 3,
+                "totalAmount": 931.72
+              },
+              {
+                "cID": "LB",
+                "cName": "Lebanon",
+                "totalCount": 1,
+                "totalAmount": 159.13
+              },
+              {
+                "cID": "LT",
+                "cName": "Lithuania",
+                "totalCount": 12,
+                "totalAmount": 1306.5811965812
+              },
+              {
+                "cID": "LU",
+                "cName": "Luxembourg",
+                "totalCount": 13,
+                "totalAmount": 2041.65811965812
+              },
+              {
+                "cID": "LV",
+                "cName": "Latvia",
+                "totalCount": 12,
+                "totalAmount": 2414.05128205128
+              },
+              {
+                "cID": "MA",
+                "cName": "Morocco",
+                "totalCount": 4,
+                "totalAmount": 438.72
+              },
+              {
+                "cID": "MC",
+                "cName": "Monaco",
+                "totalCount": 1,
+                "totalAmount": 123.36
+              },
+              {
+                "cID": "MD",
+                "cName": "Moldova, Republic of",
+                "totalCount": 1,
+                "totalAmount": 129.22
+              },
+              {
+                "cID": "ME",
+                "cName": "Montenegro",
+                "totalCount": 2,
+                "totalAmount": 382.83
+              },
+              {
+                "cID": "MF",
+                "cName": "Collectivity of Saint Martin",
+                "totalCount": 2,
+                "totalAmount": 526.38
+              },
+              {
+                "cID": "MG",
+                "cName": "Madagascar",
+                "totalCount": 2,
+                "totalAmount": 153.72
+              },
+              {
+                "cID": "MK",
+                "cName": "Macedonia, the former Yugoslav Republic of",
+                "totalCount": 4,
+                "totalAmount": 2105.14
+              },
+              {
+                "cID": "MQ",
+                "cName": "Martinique",
+                "totalCount": 6,
+                "totalAmount": 1454.99
+              },
+              {
+                "cID": "MT",
+                "cName": "Malta",
+                "totalCount": 8,
+                "totalAmount": 2428.18803418803
+              },
+              {
+                "cID": "MU",
+                "cName": "Mauritius",
+                "totalCount": 1,
+                "totalAmount": 179.8
+              },
+              {
+                "cID": "MZ",
+                "cName": "Mozambique",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "NC",
+                "cName": "New Caledonia",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "NL",
+                "cName": "Netherlands",
+                "totalCount": 159,
+                "totalAmount": 26497.8034188034
+              },
+              {
+                "cID": "NO",
+                "cName": "Norway",
+                "totalCount": 22,
+                "totalAmount": 5512.8
+              },
+              {
+                "cID": "PF",
+                "cName": "French Polynesia",
+                "totalCount": 37,
+                "totalAmount": 5871.56
+              },
+              {
+                "cID": "PL",
+                "cName": "Poland",
+                "totalCount": 16,
+                "totalAmount": 2682.69230769231
+              },
+              {
+                "cID": "PT",
+                "cName": "Portugal",
+                "totalCount": 35,
+                "totalAmount": 4798.97435897436
+              },
+              {
+                "cID": "QA",
+                "cName": "Qatar",
+                "totalCount": 4,
+                "totalAmount": 629.66
+              },
+              {
+                "cID": "RE",
+                "cName": "Réunion",
+                "totalCount": 21,
+                "totalAmount": 4227.66
+              },
+              {
+                "cID": "RO",
+                "cName": "Romania",
+                "totalCount": 24,
+                "totalAmount": 3511.89743589744
+              },
+              {
+                "cID": "RS",
+                "cName": "Serbia",
+                "totalCount": 10,
+                "totalAmount": 1468
+              },
+              {
+                "cID": "RU",
+                "cName": "Russian Federation",
+                "totalCount": 7,
+                "totalAmount": 1444.53
+              },
+              {
+                "cID": "SA",
+                "cName": "Saudi Arabia",
+                "totalCount": 2,
+                "totalAmount": 523.48
+              },
+              {
+                "cID": "SE",
+                "cName": "Sweden",
+                "totalCount": 40,
+                "totalAmount": 8461.74358974359
+              },
+              {
+                "cID": "SI",
+                "cName": "Slovenia",
+                "totalCount": 68,
+                "totalAmount": 10915.6324786325
+              },
+              {
+                "cID": "SK",
+                "cName": "Slovakia",
+                "totalCount": 33,
+                "totalAmount": 6186.24786324786
+              },
+              {
+                "cID": "SZ",
+                "cName": "Swaziland",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "TF",
+                "cName": "French Southern Territories",
+                "totalCount": 1,
+                "totalAmount": 382.51
+              },
+              {
+                "cID": "TR",
+                "cName": "Turkey",
+                "totalCount": 60,
+                "totalAmount": 11941.52
+              },
+              {
+                "cID": "UA",
+                "cName": "Ukraine",
+                "totalCount": 1,
+                "totalAmount": 183.92
+              },
+              {
+                "cID": "UG",
+                "cName": "Uganda",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "YT",
+                "cName": "Mayotte",
+                "totalCount": 2,
+                "totalAmount": 168.97
+              },
+              {
+                "cID": "ZA",
+                "cName": "South Africa",
+                "totalCount": 4,
+                "totalAmount": 1523.91
+              }
+            ]
+          },
+          {
+            "aID": "LATAM",
+            "countries": [
+              {
+                "cID": "AR",
+                "cName": "Argentina",
+                "totalCount": 2,
+                "totalAmount": 256.88
+              },
+              {
+                "cID": "AW",
+                "cName": "Aruba",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "BM",
+                "cName": "Bermuda",
+                "totalCount": 9,
+                "totalAmount": 1995.45
+              },
+              {
+                "cID": "BR",
+                "cName": "Brazil",
+                "totalCount": 16,
+                "totalAmount": 5440.17
+              },
+              {
+                "cID": "CL",
+                "cName": "Cile",
+                "totalCount": 7,
+                "totalAmount": 1624.55
+              },
+              {
+                "cID": "CO",
+                "cName": "Colombia",
+                "totalCount": 2,
+                "totalAmount": 469.83
+              },
+              {
+                "cID": "CR",
+                "cName": "Costa Rica",
+                "totalCount": 1,
+                "totalAmount": 248.73
+              },
+              {
+                "cID": "DM",
+                "cName": "Dominica",
+                "totalCount": 2,
+                "totalAmount": 456.88
+              },
+              {
+                "cID": "EC",
+                "cName": "Ecuador",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "LC",
+                "cName": "Saint Lucia",
+                "totalCount": 1,
+                "totalAmount": 235.35
+              },
+              {
+                "cID": "MX",
+                "cName": "Mexico",
+                "totalCount": 26,
+                "totalAmount": 8491.69
+              },
+              {
+                "cID": "PA",
+                "cName": "Panama",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "PR",
+                "cName": "Puerto Rico",
+                "totalCount": 16,
+                "totalAmount": 6436.87
+              },
+              {
+                "cID": "UY",
+                "cName": "Uruguay",
+                "totalCount": 2,
+                "totalAmount": 308.46
+              },
+              {
+                "cID": "VG",
+                "cName": "Virgin Islands, British",
+                "totalCount": 1,
+                "totalAmount": 301.43
+              }
+            ]
+          },
+          {
+            "aID": "APAC",
+            "countries": [
+              {
+                "cID": "BN",
+                "cName": "Brunei Darussalam",
+                "totalCount": 3,
+                "totalAmount": 1646.99
+              },
+              {
+                "cID": "HK",
+                "cName": "Hong Kong",
+                "totalCount": 1,
+                "totalAmount": 351.5
+              },
+              {
+                "cID": "ID",
+                "cName": "Indonesia",
+                "totalCount": 5,
+                "totalAmount": 1008.27
+              },
+              {
+                "cID": "IN",
+                "cName": "India",
+                "totalCount": 6,
+                "totalAmount": 1313.76
+              },
+              {
+                "cID": "JP",
+                "cName": "Japan",
+                "totalCount": 61,
+                "totalAmount": 29593.31
+              },
+              {
+                "cID": "KH",
+                "cName": "Cambodia",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "KR",
+                "cName": "Korea, Republic of",
+                "totalCount": 43,
+                "totalAmount": 29593.31
+              },
+              {
+                "cID": "MY",
+                "cName": "Malaysia",
+                "totalCount": 27,
+                "totalAmount": 6349.62
+              },
+              {
+                "cID": "PH",
+                "cName": "Philippines",
+                "totalCount": 11,
+                "totalAmount": 1948.27
+              },
+              {
+                "cID": "SG",
+                "cName": "Singapore",
+                "totalCount": 16,
+                "totalAmount": 4062.2
+              },
+              {
+                "cID": "TH",
+                "cName": "Thailand",
+                "totalCount": 11,
+                "totalAmount": 3980.07
+              },
+              {
+                "cID": "VN",
+                "cName": "Vietnam",
+                "totalCount": 9,
+                "totalAmount": 1801.69
+              }
+            ]
+          },
+          {
+            "aID": "NA",
+            "countries": [
+              {
+                "cID": "CA",
+                "cName": "Canada",
+                "totalCount": 16,
+                "totalAmount": 3412.68
+              },
+              {
+                "cID": "US",
+                "cName": "United States of America",
+                "totalCount": 127,
+                "totalAmount": 28574.3
+              }
+            ]
+          },
+          {
+            "aID": "Others",
+            "countries": [
+              {
+                "cID": "XK",
+                "cName": "Kosovo",
+                "totalCount": 1,
+                "totalAmount": 383.45
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "yID": 2023,
+        "areas": [
+          {
+            "aID": "EMEA",
+            "countrie": [
+              {
+                "cID": "AD",
+                "cName": "Andorra",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "AE",
+                "cName": "United Arab Emirates",
+                "totalCount": 5,
+                "totalAmount": 633.15
+              },
+              {
+                "cID": "AL",
+                "cName": "Albania",
+                "totalCount": 9,
+                "totalAmount": 1689
+              },
+              {
+                "cID": "AO",
+                "cName": "Angola",
+                "totalCount": 1,
+                "totalAmount": 222.81
+              },
+              {
+                "cID": "AX",
+                "cName": "Åland Islands",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "AZ",
+                "cName": "Azerbaijan",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "BA",
+                "cName": "Bosnia and Herzegovina",
+                "totalCount": 8,
+                "totalAmount": 101.98
+              },
+              {
+                "cID": "BE",
+                "cName": "Belgium",
+                "totalCount": 154,
+                "totalAmount": 26005.4297520661
+              },
+              {
+                "cID": "BG",
+                "cName": "Bulgaria",
+                "totalCount": 24,
+                "totalAmount": 4020.90833333333
+              },
+              {
+                "cID": "BL",
+                "cName": "Saint Barthélemy",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "BY",
+                "cName": "Belarus",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "CH",
+                "cName": "Switzerland",
+                "totalCount": 102,
+                "totalAmount": 26797.53
+              },
+              {
+                "cID": "CY",
+                "cName": "Cyprus",
+                "totalCount": 7,
+                "totalAmount": 1402.63865546218
+              },
+              {
+                "cID": "CZ",
+                "cName": "Czechia",
+                "totalCount": 57,
+                "totalAmount": 7800.8347107438
+              },
+              {
+                "cID": "DK",
+                "cName": "Denmark",
+                "totalCount": 20,
+                "totalAmount": 2234.064
+              },
+              {
+                "cID": "DZ",
+                "cName": "Algeria",
+                "totalCount": 6,
+                "totalAmount": 1751.49
+              },
+              {
+                "cID": "EE",
+                "cName": "Estonia",
+                "totalCount": 2,
+                "totalAmount": 436.5
+              },
+              {
+                "cID": "EG",
+                "cName": "Egypt",
+                "totalCount": 1,
+                "totalAmount": 94.98
+              },
+              {
+                "cID": "FI",
+                "cName": "Finland",
+                "totalCount": 13,
+                "totalAmount": 1307.79838709677
+              },
+              {
+                "cID": "FR",
+                "cName": "France",
+                "totalCount": 712,
+                "totalAmount": 97822.3
+              },
+              {
+                "cID": "GE",
+                "cName": "Georgia",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "GF",
+                "cName": "French Guiana",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "GG",
+                "cName": "Guernsey",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "GI",
+                "cName": "Gibralta",
+                "totalCount": 1,
+                "totalAmount": 112.5
+              },
+              {
+                "cID": "GP",
+                "cName": "Guadeloupe",
+                "totalCount": 1,
+                "totalAmount": 162.62
+              },
+              {
+                "cID": "GR",
+                "cName": "Greece",
+                "totalCount": 38,
+                "totalAmount": 6239.91935483871
+              },
+              {
+                "cID": "HR",
+                "cName": "Croatia",
+                "totalCount": 58,
+                "totalAmount": 11550.496
+              },
+              {
+                "cID": "HU",
+                "cName": "Hungary",
+                "totalCount": 62,
+                "totalAmount": 10936.0157480315
+              },
+              {
+                "cID": "IE",
+                "cName": "Ireland",
+                "totalCount": 21,
+                "totalAmount": 2955.06504065041
+              },
+              {
+                "cID": "IL",
+                "cName": "Israel",
+                "totalCount": 7,
+                "totalAmount": 2392.49
+              },
+              {
+                "cID": "IQ",
+                "cName": "Iraq",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "IS",
+                "cName": "Iceland",
+                "totalCount": 2,
+                "totalAmount": 1454.74
+              },
+              {
+                "cID": "JE",
+                "cName": "Jersey",
+                "totalCount": 1,
+                "totalAmount": 108.14
+              },
+              {
+                "cID": "JO",
+                "cName": "Jordan",
+                "totalCount": 7,
+                "totalAmount": 1320.76
+              },
+              {
+                "cID": "KW",
+                "cName": "Kuwait",
+                "totalCount": 1,
+                "totalAmount": 453.49
+              },
+              {
+                "cID": "KZ",
+                "cName": "Kazakhstan",
+                "totalCount": 9,
+                "totalAmount": 3166.9
+              },
+              {
+                "cID": "LB",
+                "cName": "Lebanon",
+                "totalCount": 2,
+                "totalAmount": 403.46
+              },
+              {
+                "cID": "LT",
+                "cName": "Lithuania",
+                "totalCount": 10,
+                "totalAmount": 1589.28099173554
+              },
+              {
+                "cID": "LU",
+                "cName": "Luxembourg",
+                "totalCount": 10,
+                "totalAmount": 2147.16239316239
+              },
+              {
+                "cID": "LV",
+                "cName": "Latvia",
+                "totalCount": 11,
+                "totalAmount": 1853.61157024793
+              },
+              {
+                "cID": "MA",
+                "cName": "Morocco",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "MC",
+                "cName": "Monaco",
+                "totalCount": 2,
+                "totalAmount": 473
+              },
+              {
+                "cID": "MD",
+                "cName": "Moldova, Republic of",
+                "totalCount": 2,
+                "totalAmount": 307.55
+              },
+              {
+                "cID": "ME",
+                "cName": "Montenegro",
+                "totalCount": 1,
+                "totalAmount": 113.39
+              },
+              {
+                "cID": "MF",
+                "cName": "Collectivity of Saint Martin",
+                "totalCount": 2,
+                "totalAmount": 211.83
+              },
+              {
+                "cID": "MG",
+                "cName": "Madagascar",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "MK",
+                "cName": "Macedonia, the former Yugoslav Republic of",
+                "totalCount": 9,
+                "totalAmount": 4253.8
+              },
+              {
+                "cID": "MQ",
+                "cName": "Martinique",
+                "totalCount": 2,
+                "totalAmount": 807.04
+              },
+              {
+                "cID": "MT",
+                "cName": "Malta",
+                "totalCount": 14,
+                "totalAmount": 3009.70338983051
+              },
+              {
+                "cID": "MU",
+                "cName": "Mauritius",
+                "totalCount": 1,
+                "totalAmount": 186.2
+              },
+              {
+                "cID": "MZ",
+                "cName": "Mozambique",
+                "totalCount": 1,
+                "totalAmount": 237.58
+              },
+              {
+                "cID": "NC",
+                "cName": "New Caledonia",
+                "totalCount": 1,
+                "totalAmount": 419.19
+              },
+              {
+                "cID": "NL",
+                "cName": "Netherlands",
+                "totalCount": 133,
+                "totalAmount": 24716.1983471074
+              },
+              {
+                "cID": "NO",
+                "cName": "Norway",
+                "totalCount": 21,
+                "totalAmount": 4327.4
+              },
+              {
+                "cID": "PF",
+                "cName": "French Polynesia",
+                "totalCount": 41,
+                "totalAmount": 6875.36
+              },
+              {
+                "cID": "PL",
+                "cName": "Poland",
+                "totalCount": 8,
+                "totalAmount": 2558.05691056911
+              },
+              {
+                "cID": "PT",
+                "cName": "Portugal",
+                "totalCount": 13,
+                "totalAmount": 2206.08
+              },
+              {
+                "cID": "QA",
+                "cName": "Qatar",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "RE",
+                "cName": "Réunion",
+                "totalCount": 15,
+                "totalAmount": 2444.57
+              },
+              {
+                "cID": "RO",
+                "cName": "Romania",
+                "totalCount": 28,
+                "totalAmount": 4631.0756302521
+              },
+              {
+                "cID": "RS",
+                "cName": "Serbia",
+                "totalCount": 8,
+                "totalAmount": 1635.46
+              },
+              {
+                "cID": "RU",
+                "cName": "Russian Federation",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "SA",
+                "cName": "Saudi Arabia",
+                "totalCount": 1,
+                "totalAmount": 263.32
+              },
+              {
+                "cID": "SE",
+                "cName": "Sweden",
+                "totalCount": 37,
+                "totalAmount": 5420.85365853658
+              },
+              {
+                "cID": "SI",
+                "cName": "Slovenia",
+                "totalCount": 102,
+                "totalAmount": 14528.737704918
+              },
+              {
+                "cID": "SK",
+                "cName": "Slovakia",
+                "totalCount": 55,
+                "totalAmount": 7569.825
+              },
+              {
+                "cID": "SZ",
+                "cName": "Swaziland",
+                "totalCount": 1,
+                "totalAmount": 329.29
+              },
+              {
+                "cID": "TF",
+                "cName": "French Southern Territories",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "TR",
+                "cName": "Turkey",
+                "totalCount": 100,
+                "totalAmount": 24674.97
+              },
+              {
+                "cID": "UA",
+                "cName": "Ukraine",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "UG",
+                "cName": "Uganda",
+                "totalCount": 1,
+                "totalAmount": 77.24
+              },
+              {
+                "cID": "YT",
+                "cName": "Mayotte",
+                "totalCount": 1,
+                "totalAmount": 388.61
+              },
+              {
+                "cID": "ZA",
+                "cName": "South Africa",
+                "totalCount": 3,
+                "totalAmount": 597.15
+              }
+            ]
+          },
+          {
+            "aID": "LATAM",
+            "countries": [
+              {
+                "cID": "AR",
+                "cName": "Argentina",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "AW",
+                "cName": "Aruba",
+                "totalCount": 5,
+                "totalAmount": 2450.28
+              },
+              {
+                "cID": "BM",
+                "cName": "Bermuda",
+                "totalCount": 6,
+                "totalAmount": 1752.53
+              },
+              {
+                "cID": "BR",
+                "cName": "Brazil",
+                "totalCount": 8,
+                "totalAmount": 1824.31
+              },
+              {
+                "cID": "CL",
+                "cName": "Cile",
+                "totalCount": 9,
+                "totalAmount": 2422.15
+              },
+              {
+                "cID": "CO",
+                "cName": "Colombia",
+                "totalCount": 12,
+                "totalAmount": 2014.78
+              },
+              {
+                "cID": "CR",
+                "cName": "Costa Rica",
+                "totalCount": 1,
+                "totalAmount": 244.98
+              },
+              {
+                "cID": "DM",
+                "cName": "Dominica",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "EC",
+                "cName": "Ecuador",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "LC",
+                "cName": "Saint Lucia",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "MX",
+                "cName": "Mexico",
+                "totalCount": 23,
+                "totalAmount": 7274.72
+              },
+              {
+                "cID": "PA",
+                "cName": "Panama",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "PR",
+                "cName": "Puerto Rico",
+                "totalCount": 13,
+                "totalAmount": 3994.07
+              },
+              {
+                "cID": "UY",
+                "cName": "Uruguay",
+                "totalCount": 2,
+                "totalAmount": 393.4
+              },
+              {
+                "cID": "VG",
+                "cName": "Virgin Islands, British",
+                "totalCount": 0,
+                "totalAmount": 0
+              }
+            ]
+          },
+          {
+            "aID": "APAC",
+            "countries": [
+              {
+                "cID": "BN",
+                "cName": "Brunei Darussalam",
+                "totalCount": 6,
+                "totalAmount": 2574.86
+              },
+              {
+                "cID": "HK",
+                "cName": "Hong Kong",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "ID",
+                "cName": "Indonesia",
+                "totalCount": 7,
+                "totalAmount": 3437.55
+              },
+              {
+                "cID": "IN",
+                "cName": "India",
+                "totalCount": 2,
+                "totalAmount": 785.03
+              },
+              {
+                "cID": "JP",
+                "cName": "Japan",
+                "totalCount": 63,
+                "totalAmount": 24649.03
+              },
+              {
+                "cID": "KH",
+                "cName": "Cambodia",
+                "totalCount": 0,
+                "totalAmount": 0
+              },
+              {
+                "cID": "KR",
+                "cName": "Korea, Republic of",
+                "totalCount": 21,
+                "totalAmount": 6650.17
+              },
+              {
+                "cID": "MY",
+                "cName": "Malaysia",
+                "totalCount": 27,
+                "totalAmount": 10304.76
+              },
+              {
+                "cID": "PH",
+                "cName": "Philippines",
+                "totalCount": 20,
+                "totalAmount": 5606.46
+              },
+              {
+                "cID": "SG",
+                "cName": "Singapore",
+                "totalCount": 22,
+                "totalAmount": 5575.47
+              },
+              {
+                "cID": "TH",
+                "cName": "Thailand",
+                "totalCount": 21,
+                "totalAmount": 5643.89
+              },
+              {
+                "cID": "VN",
+                "cName": "Vietnam",
+                "totalCount": 6,
+                "totalAmount": 2742.78
+              }
+            ]
+          },
+          {
+            "aID": "NA",
+            "countries": [
+              {
+                "cID": "CA",
+                "cName": "Canada",
+                "totalCount": 13,
+                "totalAmount": 1810.48
+              },
+              {
+                "cID": "US",
+                "cName": "United States of America",
+                "totalCount": 122,
+                "totalAmount": 34337.04
+              }
+            ]
+          },
+          {
+            "aID": "Others",
+            "countries": [
+              {
+                "cID": "XK",
+                "cName": "Kosovo",
+                "totalCount": 3,
+                "totalAmount": 495.19
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
